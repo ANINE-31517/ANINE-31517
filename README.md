@@ -1,4 +1,4 @@
-![logo](https://github.com/ANINE-31517/ANINE-31517/blob/main/Banner.png)
+![logo](https://github.com/ANINE-31517/ANINE-31517/blob/main/Banner(1).png)
 <h1 align="center">Hi 🙏, I'm Abhinav Dwivedi</h1>
 <h3 align="center">A passionate "Web Developer" and "Programmer" from India, striving to make the world a more unified and connected place.</h3>
 
