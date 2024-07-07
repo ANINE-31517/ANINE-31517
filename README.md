@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ANINE-31517](https://github.com/ANINE-31517)
 
-- 💬 Ask me about **Web Development, DSA, PSA, OOPS**
+- 💬 Ask me about **Web Development, DSA, PSA, OOPS, AI, ML**
 
 - 📫 How to reach me **abhinavdwivedi590@gmail.com**
 
