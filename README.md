@@ -1,6 +1,6 @@
 ![logo](https://github.com/ANINE-31517/ANINE-31517/blob/main/Dark%20Teal%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi, I'm Abhinav Dwivedi</h1>
-<h3 align="center">A passionate "Web Developer" and "Programmer" from India, striving to make the world a more unified and connected place.</h3>
+<h3 align="center">A passionate "Backend Developer" and "Programmer" from India, striving to make the world a more unified and connected place.</h3>
 
 - 🔭 I’m currently working on **DocMinimizer**
 
