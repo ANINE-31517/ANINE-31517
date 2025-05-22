@@ -12,15 +12,13 @@
 
 - 📫 How to reach me **abhinavdwivedi590@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13w0k7jp4fjPy0Kp-9svb66BzKWUHvhFr/view?usp=drive_link](https://drive.google.com/file/d/13w0k7jp4fjPy0Kp-9svb66BzKWUHvhFr/view?usp=drive_link)
-
 - ⚡ Life fact **I believe in realism**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abhinav31517" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhinav31517" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhinav-dwivedi-89596322a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhinav-dwivedi-89596322a/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/anine31517" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/anine31517" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/anine31517" target="blank"><img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FCodeChef%2F&psig=AOvVaw1BWz8GYEgCFBe7u2-t6g4h&ust=1747996127139000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJC7_5Pvto0DFQAAAAAdAAAAABAE)" alt="https://www.codechef.com/users/anine31517" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/anine31517" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/anine31517" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/anine31517/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/anine31517/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/anine31517/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/anine31517/" height="30" width="40" /></a>
