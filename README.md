@@ -2,13 +2,13 @@
 <h1 align="center">Hi, I'm Abhinav Dwivedi</h1>
 <h3 align="center">A passionate "Backend Developer" and "Programmer" from India, striving to make the world a more unified and connected place.</h3>
 
-- 🔭 I’m currently working on **DocMinimizer**
+- 🔭 I’m currently working as a  **Software Developer Trainee** in To The New Private Limited
 
-- 🌱 I’m currently learning **AI & ML**
+- 🌱 I’m currently learning **Core & Advanced Java, Springboot, Hibernate, Spring Data JPA, Spring Security, MongoDB, MySQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ANINE-31517](https://github.com/ANINE-31517)
 
-- 💬 Ask me about **Web Development, DSA, PSA, OOPS, AI, ML**
+- 💬 Ask me about **Web Development, DSA, PSA, OOPS, Programming Languages**
 
 - 📫 How to reach me **abhinavdwivedi590@gmail.com**
 
