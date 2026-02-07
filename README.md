@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Abhinav Dwivedi</h1>
 <h3 align="center">A passionate "Backend Developer" and "Programmer" from India, striving to make the world a more unified and connected place.</h3>
 
-- 🔭 I’m currently working as a  **Software Developer Trainee** in To The New Private Limited
+- 🔭 I’m currently working as a  **Software Engineer** in To The New Private Limited
 
 - 🌱 I’m currently learning **Core & Advanced Java, Springboot, Hibernate, Spring Data JPA, Spring Security, MongoDB, MySQL**
 
